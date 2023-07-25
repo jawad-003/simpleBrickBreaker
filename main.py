@@ -148,7 +148,6 @@ def main():
     mybrick = Brick()
     myball = Ball()
     mybrick.create_bricks()
-    Mainfont = pygame.font.Font(None, 36)
 
     running = True
     while running:  
